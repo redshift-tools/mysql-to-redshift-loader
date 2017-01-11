@@ -9,7 +9,8 @@ Features:
  - AWS Access Keys are not passed as arguments. 
  - Requires MySQL client (mysql.exe)
  - You can modify default Python [extractor.py](https://github.com/alexbuz/MySQL_To_Redshift_Loader/blob/master/sources/include/extractor.py) and [loader.py](https://github.com/alexbuz/MySQL_To_Redshift_Loader/blob/master/sources/include/loader.py)
- - Written using Python/boto/psycopg2/PyInstaller.
+ - Written using Python/boto/psycopg2
+ - Compiled using PyInstaller.
 
 
 ##Other scripts
