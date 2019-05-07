@@ -19,6 +19,8 @@ Features:
   - [PostgreSQL -> Redshift](https://github.com/alexbuz/PostgreSQL_To_Redshift_Loader/blob/master/README.md) data loader
   - [CSV -> Redshift](https://github.com/alexbuz/CSV_Loader_For_Redshift/blob/master/README.md) data loader
 
+[<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">](https://www.buymeacoffee.com/0nJ32Xg)
+
 ##Purpose
 
 - Stream/pipe/load MySQL table data to Amazon-Redshift.
@@ -294,7 +296,7 @@ https://github.com/pydemo/teardown
 
 
 
-
+[<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">](https://www.buymeacoffee.com/0nJ32Xg)
 
 
 
